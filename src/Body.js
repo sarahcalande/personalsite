@@ -4,7 +4,7 @@ export default class Body extends Component{
   render(){
     return(
       <div classname="body">
-      <h3>Professional Experience</h3>
+      <h3>Software Developer</h3>
       I'm a full-stack software engineer with experience in back-end Ruby, Ruby on Rails framework, and designing and implementing RESTful APIs. Front-end experience coding in JavaScript, React.js, and Redux. I create my projects to explore my interests: <b>nutrition, fitness</b> and <b>wellbeing</b>. Most recently, these include a <a href='https://www.youtube.com/watch?v=Ks10yM6HF54'>recipe app</a>, a <a href='https://www.youtube.com/watch?v=lRnOAxW6lCU'>nutrition app</a>, and a <a href='https://www.youtube.com/watch?v=8H_S9hPYpXA&t=65s'>fitness app</a>.
 <br></br>
 

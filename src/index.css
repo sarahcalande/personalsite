@@ -26,8 +26,14 @@ h1{
       margin: 0;
   font-family: "Brush Script MT", cursive;
   font-size: 100px;
+      font-weight: normal;
 }
 
 a {
   color: black;
+}
+
+h3{
+font-family: Impact, Charcoal, sans-serif;
+font-weight: normal;
 }
