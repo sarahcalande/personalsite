@@ -5,14 +5,14 @@ export default class Body extends Component{
     return(
       <div classname="body">
       <h3>Professional Experience</h3>
-      I'm a full-stack software engineer with experience in back-end Ruby, Ruby on Rails framework, and designing and implementing RESTful APIs. Front-end experience coding in JavaScript, React.js, and Redux. I create my projects to explore my interests: <b>nutrition, fitness</b> and <b>wellbeing</b>. Most recently, these include a recipe app, a nutrition app, and a fitness app.
-
+      I'm a full-stack software engineer with experience in back-end Ruby, Ruby on Rails framework, and designing and implementing RESTful APIs. Front-end experience coding in JavaScript, React.js, and Redux. I create my projects to explore my interests: <b>nutrition, fitness</b> and <b>wellbeing</b>. Most recently, these include a <a href='https://www.youtube.com/watch?v=Ks10yM6HF54'>recipe app</a>, a <a href='https://www.youtube.com/watch?v=lRnOAxW6lCU'>nutrition app</a>, and a <a href='https://www.youtube.com/watch?v=8H_S9hPYpXA&t=65s'>fitness app</a>.
+<br></br>
 
 
 
 
       <h3>What I love 💄🥋🥦 📖</h3>
-      I discovered my passion for nutrition, fitness and wellbeing as a driven karate teacher with <b>three world championship titles.</b> I expanded on my passion for education and connection by teaching English to Hispanic students in Los Angeles, to French students in Marseille, and to Chinese students online. Broadened my love for linguistics into learning programming languages. Looking to apply my skills with a team that values hard work, dedication, and a love for learning. When I'm not building apps or learning new technologies, I'm usually cooking or trying new makeup and cosmetics.
+      I discovered my passion for nutrition, fitness and wellbeing as a driven karate teacher with three world championship titles. I expanded on my passion for education and connection by teaching English to Hispanic students in Los Angeles, to French students in Marseille, and to Chinese students online. Broadened my love for linguistics into learning programming languages. Looking to apply my skills with a team that values hard work, dedication, and a love for learning. When I'm not building apps or learning new technologies, I'm usually cooking or trying new makeup and cosmetics.
 
 
       <h3>A Little More About Me</h3>

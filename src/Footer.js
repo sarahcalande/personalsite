@@ -3,7 +3,8 @@ import React, { Component } from 'react';
 export default class Footer extends Component{
   render(){
     return(
-      <div classname="Header">
+      <div>
+      <br></br>
       <a href= "mailto: sarahcalande@gmail.com"> Contact</a>|
       <a href='www.github.com/sarahcalande'> Github</a>|
       <a href='www.linkedin.com/in/sarahcalande'> Linkedin</a>|

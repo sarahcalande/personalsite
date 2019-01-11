@@ -13,6 +13,7 @@ body{
 
 .Header{
     background-color: pink;
+    font-family: "Brush Script MT", cursive;
     padding: none;
     margin: none !important;
     margin-block-start: none !important;
@@ -22,6 +23,9 @@ margin-block-end: none !important;
 
 h1{
   background-color: pink;
+      margin: 0;
+  font-family: "Brush Script MT", cursive;
+  font-size: 100px;
 }
 
 a {
