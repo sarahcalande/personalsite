@@ -1,14 +1,29 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+body{
+  font-family: "acumin-pro-extra-condensed","Acumin Pro ExtraCondensed",sans-serif;
+  background-color: pink;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+
+.App {
+  text-align: center;
+  background-color: white;
+}
+
+
+.Header{
+    background-color: pink;
+    padding: none;
+    margin: none !important;
+    margin-block-start: none !important;
+margin-block-end: none !important;
+}
+
+
+h1{
+  background-color: pink;
+}
+
+a {
+  color: black;
 }
