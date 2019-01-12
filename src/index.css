@@ -1,3 +1,7 @@
+.root{
+  text-align: center;
+}
+
 
 body{
   font-family: "acumin-pro-extra-condensed","Acumin Pro ExtraCondensed",sans-serif;
@@ -13,7 +17,9 @@ div{
 .App {
   text-align: center;
   background-color: pink;
-
+  align-self: center;
+  align-content: center;
+  width: 2000px;
 }
 
 
