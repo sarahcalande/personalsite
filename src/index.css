@@ -5,11 +5,32 @@ body{
 }
 
 
-.App {
-  text-align: center;
-  background-color: white;
+
+div{
+
 }
 
+.App {
+  text-align: center;
+  background-color: pink;
+
+}
+
+
+.image{
+  padding-bottom: 1em;
+}
+
+
+.pad{
+  background-color: white;
+  padding-top: .1em;
+  margin-left: 4em;
+  margin-right: 4em;
+  padding-left: 3em;
+  padding-right: 3em;
+    padding-bottom: 1em;
+}
 
 .Header{
     background-color: pink;

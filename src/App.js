@@ -10,8 +10,10 @@ class App extends Component {
       <div className="App">
 <Header/>
 <Image/>
+<div className="pad">
 <Body/>
 <Footer/>
+</div>
       </div>
     );
   }
