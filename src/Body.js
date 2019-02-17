@@ -12,6 +12,7 @@ export default class Body extends Component{
 <iframe width="450" height="350" src="https://www.youtube.com/embed/8H_S9hPYpXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="450" height="350" src="https://www.youtube.com/embed/lRnOAxW6lCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="450" height="350" src="https://www.youtube.com/embed/Ks10yM6HF54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="450" height="350" src="https://www.youtube.com/watch?v=WJy3Uix1sJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br></br>
 
