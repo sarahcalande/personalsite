@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Projects from './Projects.js'
 
 export default class Body extends Component{
   render(){
@@ -8,11 +9,7 @@ export default class Body extends Component{
       I'm a full-stack software engineer with experience in back-end Ruby, Ruby on Rails framework, and designing and implementing RESTful APIs. Front-end experience coding in JavaScript, React.js, and Redux. I create my projects to explore my interests: <b>nutrition, fitness</b> and <b>wellbeing</b>. Most recently, these include a <a href='https://www.youtube.com/watch?v=Ks10yM6HF54'>recipe app</a>, a <a href='https://www.youtube.com/watch?v=lRnOAxW6lCU'>nutrition app</a>, and a <a href='https://www.youtube.com/watch?v=8H_S9hPYpXA&t=65s'>fitness app</a>.
 <br></br>
 <br></br>
-
-<iframe width="450" height="350" src="https://www.youtube.com/embed/8H_S9hPYpXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="450" height="350" src="https://www.youtube.com/embed/lRnOAxW6lCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="450" height="350" src="https://www.youtube.com/embed/Ks10yM6HF54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<iframe width="450" height="350" src="https://www.youtube.com/embed/WJy3Uix1sJM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<Projects/>
 <br></br>
 
       <h3>What I love 💄🥋🥦 📖</h3>
