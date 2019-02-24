@@ -61,18 +61,25 @@ a {
 h3{
 font-family: Impact, Charcoal, sans-serif;
 font-weight: normal;
+     transition: all 1s;
 }
 
 h3:hover{
    color: pink;
-     transition: 0.3s;
+     transition: all .5s;
+}
+
+
+.hover{
+       cursor: pointer;
+        transition: all 5s;
+
 }
 
 
 
-
-  .hover:hover         {-webkit-transform: scale(1);
-        -ms-transform: scale(1);
-        transform: scale(1);
-        background-color: pink;
+  .hover:hover{
+        text-transform: uppercase;
+        border-radius: 25px;
+        transition: all 1s;
       }

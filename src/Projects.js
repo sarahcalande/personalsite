@@ -36,7 +36,7 @@ state = {
       )
     } else {
     return(
-      <div className='hover' onMouseOver = {this.handleHover}>
+      <div className='hover' onClick = {this.handleHover}>
       <h3>Projects</h3>
       </div>
     )
