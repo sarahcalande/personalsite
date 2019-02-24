@@ -9,7 +9,7 @@ state = {
 }
 
 
-  handleHover(){
+  handleHover=()=>{
     this.setState({
       clicked: true
     })
@@ -30,7 +30,7 @@ state = {
       )
     } else {
     return(
-      <div onClick = {this.handleHover()}>
+      <div onClick = {this.handleHover}>
       <h3>Projects</h3>
       </div>
     )
