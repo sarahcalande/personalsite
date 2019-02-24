@@ -5,13 +5,19 @@ import React, { Component } from 'react';
 export default class Projects extends Component{
 
 state = {
-  clicked: false
+  hovered: false
 }
 
 
   handleHover=()=>{
     this.setState({
-      clicked: true
+      hovered: true
+    })
+  }
+
+  mouseLeave=()=>{
+    this.setState({
+      hovered: false
     })
   }
 
@@ -19,9 +25,9 @@ state = {
 
 
   render(){
-    if (this.state.clicked === true){
+    if (this.state.hovered === true){
       return (
-        <div>
+        <div className='hover' onMouseLeave = {this.mouseLeave}>
         <iframe width="450" height="350" src="https://www.youtube.com/embed/8H_S9hPYpXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <iframe width="450" height="350" src="https://www.youtube.com/embed/lRnOAxW6lCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <iframe width="450" height="350" src="https://www.youtube.com/embed/Ks10yM6HF54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -30,7 +36,7 @@ state = {
       )
     } else {
     return(
-      <div onClick = {this.handleHover}>
+      <div className='hover' onMouseOver = {this.handleHover}>
       <h3>Projects</h3>
       </div>
     )
