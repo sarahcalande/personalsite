@@ -12,13 +12,13 @@ export default class Body extends Component{
 <Projects/>
 <br></br>
 
-      <h3>What I love</h3>
+      <h3>Things I love</h3>
       I discovered my passion for nutrition, fitness and wellbeing as a driven karate teacher with three world championship titles. I expanded on my passion for education and connection by teaching English to Hispanic students in Los Angeles, to French students in Marseille, and to Chinese students online. Broadened my love for linguistics into learning programming languages. Looking to apply my skills with a team that values hard work, dedication, and a love for learning. When I'm not building apps or learning new technologies, I'm usually cooking or trying new makeup and cosmetics.
 
 
 
 
-      <h3>A Little More About Me 🌎</h3>
+      <h3>A Little More About Me</h3>
       I was born in Philadelphia, raised in Maine, and studied at the University of Southern California in Los Angeles. These changes in environment and diversity made me eager to learn and share as much as I could. As a karate teacher since 2010 and english teacher since 2012, I always knew that knowledge led to opportunity. I started karate in 2004 and trained nearly every day for hours a day, until I became a 3x North American Sport Karate Association World Champion. This procurement showed me from an early age that anything can be accomplished with enough hard work, dedication, and focus. I studied abroad in Paris, graduated college, and came back to Maine to work for a year while I continued taking courses to explore my interests in Nutrition and Microeconomics. As I enjoyed working as the manager of a refugee mental health center with many clients from French speaking countries, I decided to go back to France for full language immersion. While in France, teaching English, learning in French, and communicating in Chinese with my online students, I shifted my aptitude for lingustics into a hard skill as I started studying coding languages. In the past year I have gone from 'Hello World' to building websites and applications for clients. Coding is the way that I can remain a student for life while giving myself and others a platform to share our unique passions.
 
 
