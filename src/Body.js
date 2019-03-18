@@ -12,7 +12,7 @@ export default class Body extends Component{
 <Projects/>
 <br></br>
 
-      <h3>What I love 💄🥋🥦 📖</h3>
+      <h3>What I love</h3>
       I discovered my passion for nutrition, fitness and wellbeing as a driven karate teacher with three world championship titles. I expanded on my passion for education and connection by teaching English to Hispanic students in Los Angeles, to French students in Marseille, and to Chinese students online. Broadened my love for linguistics into learning programming languages. Looking to apply my skills with a team that values hard work, dedication, and a love for learning. When I'm not building apps or learning new technologies, I'm usually cooking or trying new makeup and cosmetics.
 
 
